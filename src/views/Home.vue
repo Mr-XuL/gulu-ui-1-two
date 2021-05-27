@@ -13,7 +13,9 @@
         <a>开始</a>
     </p>
 </div>
-
-
 </div>
 </template>
+
+<style scoped lang="scss">
+
+</style>
